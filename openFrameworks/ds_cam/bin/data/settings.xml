@@ -1,0 +1,16 @@
+<settings>
+	<cam1uri>http://www.steves-digicams.com/2004_reviews/sony_l1/l1_rec_movie.jpg</cam1uri>
+	<cam1Width>320</cam1Width>
+	<cam1Height>240</cam1Height>
+	<cam1x>120</cam1x>
+	<cam1y>20</cam1y>
+	<cam2uri>http://localhost:1338/color</cam2uri>
+	<cam2Width>320</cam2Width>
+	<cam2Height>240</cam2Height>
+	<appPositionX>10</appPositionX>
+	<appPositionY>10</appPositionY>
+	<cam2x>456</cam2x>
+	<cam2y>20</cam2y>
+	<appfps>30</appfps>
+<settings/>
+</settings>
